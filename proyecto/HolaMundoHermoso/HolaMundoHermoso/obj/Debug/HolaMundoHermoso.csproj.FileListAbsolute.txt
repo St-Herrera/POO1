@@ -1,0 +1,7 @@
+C:\Users\SALA 404\Documents\gtgfh\proyecto\HolaMundoHermoso\HolaMundoHermoso\bin\Debug\HolaMundoHermoso.exe.config
+C:\Users\SALA 404\Documents\gtgfh\proyecto\HolaMundoHermoso\HolaMundoHermoso\bin\Debug\HolaMundoHermoso.exe
+C:\Users\SALA 404\Documents\gtgfh\proyecto\HolaMundoHermoso\HolaMundoHermoso\bin\Debug\HolaMundoHermoso.pdb
+C:\Users\SALA 404\Documents\gtgfh\proyecto\HolaMundoHermoso\HolaMundoHermoso\obj\Debug\HolaMundoHermoso.csproj.AssemblyReference.cache
+C:\Users\SALA 404\Documents\gtgfh\proyecto\HolaMundoHermoso\HolaMundoHermoso\obj\Debug\HolaMundoHermoso.csproj.CoreCompileInputs.cache
+C:\Users\SALA 404\Documents\gtgfh\proyecto\HolaMundoHermoso\HolaMundoHermoso\obj\Debug\HolaMundoHermoso.exe
+C:\Users\SALA 404\Documents\gtgfh\proyecto\HolaMundoHermoso\HolaMundoHermoso\obj\Debug\HolaMundoHermoso.pdb
